@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.finnhub:kotlin-client:2.0.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.finnhub/kotlin-client/2.0.14/cf1990c0fec97af51d58ca5a235c238d9c5de15c/kotlin-client-2.0.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.finnhub/kotlin-client/2.0.14/4c9a1b2f1fadec8fc9fca99359aca5b7c2add6b5/kotlin-client-2.0.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.finnhub/kotlin-client/2.0.14/ae9a24373833aae05f961d46ba260711ce829584/kotlin-client-2.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
